@@ -1,2 +1,2 @@
 # pcb-design-checklist
- Generic checklist for PCB designs.
+Generic checklist for PCB designs.
